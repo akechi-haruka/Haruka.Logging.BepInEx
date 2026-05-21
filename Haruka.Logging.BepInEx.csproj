@@ -4,6 +4,12 @@
         <TargetFrameworks>net10.0;net8.0;net6.0;net462</TargetFrameworks>
         <ImplicitUsings>disable</ImplicitUsings>
         <Nullable>disable</Nullable>
+        <Title>BepInEx Logging Provider</Title>
+        <Description>Provides a logging provider that passes log messages to a BepInEx ManualLogSource</Description>
+        <Copyright>(c) 2026 Haruka Akechi and contributors</Copyright>
+        <PackageProjectUrl>https://github.com/akechi-haruka/Haruka.Logging.BepInEx</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/akechi-haruka/Haruka.Logging.BepInEx</RepositoryUrl>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
