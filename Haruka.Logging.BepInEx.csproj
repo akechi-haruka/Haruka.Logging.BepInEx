@@ -10,6 +10,8 @@
         <PackageProjectUrl>https://github.com/akechi-haruka/Haruka.Logging.BepInEx</PackageProjectUrl>
         <RepositoryUrl>https://github.com/akechi-haruka/Haruka.Logging.BepInEx</RepositoryUrl>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>
 
     <ItemGroup>
